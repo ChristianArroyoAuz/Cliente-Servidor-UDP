@@ -1,0 +1,10 @@
+C:\Users\Christian Arroyo\Desktop\Cliente-Servidor-UDP\Servidor-UDP\bin\Debug\Servidor-UDP.exe.config
+C:\Users\Christian Arroyo\Desktop\Cliente-Servidor-UDP\Servidor-UDP\bin\Debug\Servidor-UDP.exe
+C:\Users\Christian Arroyo\Desktop\Cliente-Servidor-UDP\Servidor-UDP\bin\Debug\Servidor-UDP.pdb
+C:\Users\Christian Arroyo\Desktop\Cliente-Servidor-UDP\Servidor-UDP\obj\Debug\Servidor-UDP.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Cliente-Servidor-UDP\Servidor-UDP\obj\Debug\Servidor_UDP.Servidor.resources
+C:\Users\Christian Arroyo\Desktop\Cliente-Servidor-UDP\Servidor-UDP\obj\Debug\Servidor_UDP.Properties.Resources.resources
+C:\Users\Christian Arroyo\Desktop\Cliente-Servidor-UDP\Servidor-UDP\obj\Debug\Servidor-UDP.csproj.GenerateResource.cache
+C:\Users\Christian Arroyo\Desktop\Cliente-Servidor-UDP\Servidor-UDP\obj\Debug\Servidor-UDP.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Cliente-Servidor-UDP\Servidor-UDP\obj\Debug\Servidor-UDP.exe
+C:\Users\Christian Arroyo\Desktop\Cliente-Servidor-UDP\Servidor-UDP\obj\Debug\Servidor-UDP.pdb
